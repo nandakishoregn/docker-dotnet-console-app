@@ -1,0 +1,5 @@
+version: 'v1'
+services: 
+    man: 
+        build: .
+        image: nanki/dotnetcore-sample-v1:v1

@@ -1,0 +1,11 @@
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.exe
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.deps.json
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.runtimeconfig.json
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.runtimeconfig.dev.json
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.dll
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\bin\Debug\netcoreapp3.1\my-dot-net-core.pdb
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\obj\Debug\netcoreapp3.1\my-dot-net-core.csprojAssemblyReference.cache
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\obj\Debug\netcoreapp3.1\my-dot-net-core.AssemblyInfoInputs.cache
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\obj\Debug\netcoreapp3.1\my-dot-net-core.AssemblyInfo.cs
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\obj\Debug\netcoreapp3.1\my-dot-net-core.dll
+E:\Personal\PRACTICE\DotNet-Core\my-dot-net-core\obj\Debug\netcoreapp3.1\my-dot-net-core.pdb
